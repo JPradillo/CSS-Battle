@@ -1,6 +1,6 @@
 ## RETOS DE CSS
 
-En este repositorio se irán mostrando los distintos retos diarios de css que se publican en la web [css battle](cssbattle.dev) con la finalidad de practicar las distintas propiedades de CSS de una manera sencilla y con la cantidad mínima de caracteres.
+En este repositorio se irán mostrando los distintos retos diarios de css que se publican en la web [css battle](https://cssbattle.dev/daily) con la finalidad de practicar las distintas propiedades de CSS de una manera sencilla y con la cantidad mínima de caracteres.
 
 Cada solución contendrá un enlace al documento reto#.html y una imagen con el resultado obtenido y el resultado esperado.
 
